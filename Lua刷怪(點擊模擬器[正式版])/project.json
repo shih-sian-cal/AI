@@ -1,5 +1,0 @@
-{
-    "game": ["common.lua","game_main.lua","game_monster.lua"],
-
-    "ui": ["common.lua","ui_main.lua"]
-}
